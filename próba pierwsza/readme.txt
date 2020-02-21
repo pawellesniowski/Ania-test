@@ -1,0 +1,2 @@
+console.log 
+wpis drugi
